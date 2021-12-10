@@ -1,0 +1,8 @@
+{
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.autoIndent": "none",
+	"editor.guides.indentation": false,
+	"editor.guides.highlightActiveIndentation": false,
+	"java.configuration.updateBuildConfiguration": "automatic"
+}
